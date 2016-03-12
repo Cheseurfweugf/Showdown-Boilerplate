@@ -35,8 +35,7 @@ the other databases.
 ## Quick Start
 
 ```bash
-$ git clone https://github.com/CreaturePhil/Showdown-Boilerplate.git
-$ cd Showdown-Boilerplate && npm install
+$ npm install
 $ node app.js
 ```
 
